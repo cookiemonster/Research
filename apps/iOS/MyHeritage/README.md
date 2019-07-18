@@ -16,8 +16,8 @@ The traffic between the app and the servers all using SSL/HTTPS.
 
 The app uses these tracking service:
 
-
-
+#### [Localytics](https://localytics.com)
+Specialized in "Attribution Evaluation, Profiles Integration, Data Mining & Analysis and Remarketing."
 
 
 #### Security
