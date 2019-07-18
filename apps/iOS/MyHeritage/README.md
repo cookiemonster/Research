@@ -18,7 +18,7 @@ The app uses these tracking service:
 
 #### [Localytics](https://localytics.com)
 Specialized in "Attribution Evaluation, Profiles Integration, Data Mining & Analysis and Remarketing."
-
+They track the [user activity](https://raw.githubusercontent.com/cookiemonster/research/master/apps/iOS/MyHeritage/https%3A/analytics.localytics.com.json) in the app.
 
 #### Security
 
