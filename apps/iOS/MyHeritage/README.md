@@ -14,11 +14,18 @@ The traffic between the app and the servers all using SSL/HTTPS.
 
 #### Privacy
 
-The app uses these tracking service:
+The app uses these tracking services. Because the applicattion is a wrapped webapplication all the content of the screen can passed on to these tracking services.
+
+#### Google Analytics
+Google Analytics is a web analytics service offered by Google that tracks and reports website trafic.
 
 #### [Localytics](https://localytics.com)
 Specialized in "Attribution Evaluation, Profiles Integration, Data Mining & Analysis and Remarketing."
 They track the [user activity](https://raw.githubusercontent.com/cookiemonster/research/master/apps/iOS/MyHeritage/https%3A/analytics.localytics.com.json) in the app.
+
+### [Taboola](https://taboola.com)
+Taboola is a private advertising company headquartered in New York City. They track 
+
 
 #### Security
 
