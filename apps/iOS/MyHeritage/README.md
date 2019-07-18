@@ -14,6 +14,9 @@ The traffic between the app and the servers all using SSL/HTTPS to these domains
 
 ![traffic](https://raw.githubusercontent.com/cookiemonster/research/master/apps/iOS/MyHeritage/MyHeritage-_domains_2019-07-18_18.00.23.png)
 
+## Datamodel
+
+* [DNA Kit stats](https://github.com/cookiemonster/research/blob/master/apps/iOS/MyHeritage/https:/familygraphql.myheritage.com/dna_single_match_get_ethnicities.json)
 
 
 #### Privacy
@@ -29,7 +32,6 @@ They track the [user activity](https://raw.githubusercontent.com/cookiemonster/r
 
 ### [Taboola](https://taboola.com)
 Taboola is a private advertising company headquartered in New York City. They track 
-
 
 #### Security
 
