@@ -17,6 +17,7 @@ The traffic between the app and the servers all using SSL/HTTPS to these domains
 ## Datamodel
 
 * [DNA Kit stats](https://github.com/cookiemonster/research/blob/master/apps/iOS/MyHeritage/https:/familygraphql.myheritage.com/dna_single_match_get_ethnicities.json)
+* [DNA Matches](https://github.com/cookiemonster/research/blob/master/apps/iOS/MyHeritage/https:/familygraphql.myheritage.com/dna_single_match_get_shared_matches.json)
 
 
 #### Privacy
