@@ -1,7 +1,12 @@
 # MyHeritage app
 
-version: 5.1.0
-App store link: https://apps.apple.com/nl/app/myheritage/id477971748?l=en
+
+
+| version  | 5.1.0  |
+|:-:|:-:|
+|  App store | https://apps.apple.com/nl/app/myheritage/id477971748?l=en  |
+ 
+
 
 
 ## Overview
@@ -20,9 +25,9 @@ The traffic between the app and the servers all using SSL/HTTPS to these domains
 * [DNA Matches](https://github.com/cookiemonster/research/blob/master/apps/iOS/MyHeritage/https:/familygraphql.myheritage.com/dna_single_match_get_shared_matches.json)
 
 
-#### Privacy
+## Privacy
 
-The app uses these tracking services. Because the applicattion is a wrapped webapplication all the content of the screen can passed on to these tracking services.
+The app uses several tracking services. Because the applicattion is a wrapped webapplication all the content that gets loaded by the app can be passed on to these tracking services. There is no option to block these trackers in the current version of the app.
 
 #### Google Analytics
 Google Analytics is a web analytics service offered by Google that tracks and reports website trafic.
@@ -34,9 +39,9 @@ They track the [user activity](https://raw.githubusercontent.com/cookiemonster/r
 ### [Taboola](https://taboola.com)
 Taboola is a private advertising company headquartered in New York City. They track 
 
-#### Security
+## Security
 
+### Vulnerable for a Man-in-the-Middle attack
 The application does not check if the certificate in question is a specific certificate from MyHermitage.
 Because of the lack of certificate pinning creates a security hole. The device’s trust store can easily be compromised by using certificates, and allowing a man-in-the-middle attack on the device itself. This can be easiliy remediated with 
-certificate pinning by including the certificate known to be used by the server in the app. Most decent banking apps and 
-the AAA-Style games phones and tablets have these.
+certificate pinning by including the certificate known to be used by the server in the app. Most decent banking apps and AAA-style games for phones and tablets have these.
