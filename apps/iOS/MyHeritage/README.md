@@ -15,7 +15,7 @@ MyHeritage is almost similair to AncestryDNA. It has DNA comparison with relativ
 the ability to upload DNA from other providers. It has a 93 million userbase.
 
 ## Networking
-The traffic between the app and the servers all using SSL/HTTPS to these domains:
+The traffic between the app and the servers is encrypted as all connections use SSL/HTTPS.
 
 ![traffic](https://raw.githubusercontent.com/cookiemonster/research/master/apps/iOS/MyHeritage/MyHeritage-_domains_2019-07-18_18.00.23.png)
 
@@ -27,7 +27,10 @@ The traffic between the app and the servers all using SSL/HTTPS to these domains
 
 ## Privacy
 
-The app uses several tracking services. Because the applicattion is a wrapped webapplication all the content that gets loaded by the app can be passed on to these tracking services. There is no option to block these trackers in the current version of the app.
+The app uses several tracking services. Because the applicattion is a wrapped webapplication all the content that gets loaded by the app can be passed on to these tracking services. There is no indication that they are there working secretly under the hood. The user does not receive a warning when they start using the app. And they are switched on by default.
+
+![Trackers on by default](https://miro.medium.com/max/1400/1*KA871zjt4LPkSaEytSOx1g.jpeg)
+
 
 #### Google Analytics
 Google Analytics is a web analytics service offered by Google that tracks and reports website trafic.
