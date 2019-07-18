@@ -10,7 +10,11 @@ MyHeritage is almost similair to AncestryDNA. It has DNA comparison with relativ
 the ability to upload DNA from other providers. It has a 93 million userbase.
 
 ## Networking
-The traffic between the app and the servers all using SSL/HTTPS.
+The traffic between the app and the servers all using SSL/HTTPS to these domains:
+
+![traffic](https://raw.githubusercontent.com/cookiemonster/research/master/apps/iOS/MyHeritage/MyHeritage-_domains_2019-07-18_18.00.23.png)
+
+
 
 #### Privacy
 
