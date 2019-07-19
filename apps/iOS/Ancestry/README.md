@@ -9,3 +9,7 @@
  
 
 
+## Privacy
+
+### Privacy statement
+https://www.ancestry.com/cs/legal/row-privacy-statement-en?hideheader=1&hidePrintIcon=1
