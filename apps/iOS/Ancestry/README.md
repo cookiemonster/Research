@@ -14,6 +14,8 @@
 ### Privacy statement
 https://www.ancestry.com/cs/legal/row-privacy-statement-en?hideheader=1&hidePrintIcon=1
 
+> "We give you control over the Personal Information you provide to us, including your DNA Data, and how it is used, shared, and retained."
+
 
 
 ## Networking
