@@ -4,7 +4,8 @@
 
 | version  | 5.1.0  |
 |:-:|:-:|
-|  App store | https://apps.apple.com/nl/app/myheritage/id477971748?l=en  |
+| App store | https://apps.apple.com/nl/app/myheritage/id477971748?l=en  |
+| Blog post | https://medium.com/@dhrgevers/myheritage-14f1cf046a1 |
  
 
 
